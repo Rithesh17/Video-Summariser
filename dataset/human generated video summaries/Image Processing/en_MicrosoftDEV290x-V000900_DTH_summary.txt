@@ -1,0 +1,6 @@
+﻿- Scikit-learn supports building models based on classical machine learning techniques rooted in statistics and regression-based mathematics.
+- Classical machine learning techniques offer high performance and ease of implementation, making them widely used in AI solutions.
+- Limitations in computer vision applications arise due to the classification of image pixel arrays being susceptible to variations in color, contrast, and lighting conditions.
+- Equalizing and preparing images can mitigate susceptibility to image variations, but it requires significant effort.
+- Classical machine learning techniques consider the entire pixel array, which can be problematic as not all pixels represent object features.
+- Background pixels without relevance to object classification can heavily influence classical algorithms due to being part of the pixel array.

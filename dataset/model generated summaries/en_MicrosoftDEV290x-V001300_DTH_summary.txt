@@ -1,0 +1,7 @@
+- Classification tasks often involve predicting species based on numerical measurements (e.g., iris flower sepals and petals).
+- To predict species from images, images are converted into matrices and then flattened into vectors.
+- The pixel values of images form the feature vectors, while the species labels form the class labels.
+- The feature vectors and class labels are used to train and validate a machine learning model.
+- After training, new images can be processed, and their pixel value features can be used for prediction.
+- The model can then predict the species of the iris flower in the image.
+- This approach demonstrates the use of image data in classification tasks.

@@ -1,0 +1,7 @@
+- TextTrack objects are JavaScript objects associated with HTML elements.
+- TextTracks have two views: HTML view (manipulate HTML element) and text track view (for loading, reading content, displaying subtitles).
+- The mode property of a TextTrack indicates whether it's disabled, showing, or hidden, affecting event firing and display.
+- Modifying the mode property forces the browser to load the track asynchronously.
+- The forceLoadTrack function checks if a track is loaded, sets mode to "hidden" if not, and loads it asynchronously.
+- The getTrack function retrieves the TextTrack from an HTML track, checks its readiness, and triggers callback functions accordingly.
+- Multiple loads of a track are not necessary; it can be used immediately if already loaded.

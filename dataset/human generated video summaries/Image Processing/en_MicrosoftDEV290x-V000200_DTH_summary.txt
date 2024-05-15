@@ -1,0 +1,7 @@
+﻿* Edge Detection employs filters to identify sharp changes in pixel values, indicating object boundaries.
+* Before filtering, color images are converted to grayscale for simplicity.
+* Sobel Filter, invented by Irwin Sobel and Gary Feldman, is applied to detect gradients in images.
+* The filter is applied twice: once for horizontal gradients (Gx) and once for vertical gradients (Gy).
+* Vector lengths and angles are calculated from Gx and Gy values, revealing image edges.
+* The process involves adding squared Gx and Gy values and taking the square root for vector length.
+* Inverse tangent is calculated to determine the vector angle, which corresponds to edge orientation.

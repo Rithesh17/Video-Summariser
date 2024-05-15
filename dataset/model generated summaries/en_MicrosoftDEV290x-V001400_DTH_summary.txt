@@ -1,0 +1,7 @@
+- Deep learning with neural networks enables significant advances in computer vision.
+- Convolutional Neural Networks (CNNs) extract meaningful features from images before predicting class.
+- CNNs apply filter kernels to create feature maps, highlighting relevant information.
+- ReLU activation functions convert negative pixel values to zero.
+- Pooling kernels downsample feature maps by taking maximum values, emphasizing activated pixels.
+- Convolutional layers extract features, while fully connected layers map them to class probabilities.
+- Training CNNs involves adjusting weights in convolutional kernels and fully connected neurons.

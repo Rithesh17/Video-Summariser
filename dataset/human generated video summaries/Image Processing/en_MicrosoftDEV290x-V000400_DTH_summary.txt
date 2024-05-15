@@ -1,0 +1,7 @@
+﻿- Image manipulation includes rotating, transposing, and flipping images.
+- Resizing images involves changing the size of pixel arrays.
+- Image aspect ratio should be maintained to avoid distortion.
+- Proportional resizing adjusts the longest dimension to the required size.
+- Images can be overlaid onto a background of the correct dimensions to create padding for the shorter edge.
+- This "mounting" technique prevents image squashing or stretching.
+- Resizing images helps prepare image data for computer vision models.

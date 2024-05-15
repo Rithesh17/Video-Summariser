@@ -1,0 +1,9 @@
+﻿* The cost function calculates the difference between predicted and actual outputs in linear regression.
+   * One of the more common ones that are used are square error function
+* The goal of linear regression is to find the parameters Θ0 and Θ1 that minimize the cost function.
+   * Linear Regression is gets the hypothesis: H(x) = Θ0 + Θ1 * x
+* By minimizing the cost function, the hypothesis function H(x) fits the data well, minimizing the error between predictions and actual values.
+* The cost function is represented as J(Θ0, Θ1) = (1/2m) * Σ(H(x) - y)² over training examples.
+* Θ0 and Θ1 represent the model parameters that determine the slope and intercept of the hypothesis function.
+* Different parameter values result in different hypotheses, each with its own slope and intercept.
+* The squared error cost function is commonly used in regression problems due to its effectiveness and mathematical simplicity.

@@ -1,0 +1,8 @@
+﻿- Classification machine learning models predict the class of an item based on its features.
+- Machine learning models can be represented by the equation: y = f(x)
+- Features are represented as a vector (x), and labels (y) represent the class.
+- In the iris flower example, the features are sepal and petal measurements, and the labels are the species (Setosa, Versicolor, Virginica).
+- The model calculates a probability vector (y) for each possible class.
+- The model is trained on labeled data and validated on unseen data.
+- A confusion matrix shows the accuracy of the model by comparing predicted and actual classes.
+- A diagonal trend in the confusion matrix indicates high accuracy.

@@ -1,0 +1,8 @@
+* Image processing involves analyzing and manipulating images using tools and code.
+* Python is commonly used in data science and AI projects to work with image data.
+* Images are represented as a three-dimensional matrix of pixel values to computer software.
+* Matplotlib is used for data visualizations, including image reading, writing, and display.
+* The Python Image Library (PIL/Pillow) provides functions for image manipulation and supports various image types.
+* OpenCV is a library for Python-based computer vision programming.
+* Scikit-Image applies statistical and mathematical functions to image data for analysis and modelling.
+* NumPy arrays are the ideal format for sharing image data across different image processing packages.

@@ -1,0 +1,7 @@
+- Tuples are immutable sequences of heterogeneous data that are used to return multiple objects from Python functions.
+- You can access tuple elements by their position, starting from 0.
+- Tuples can be packed (created) from variables and unpacked (assigned to variables) using tuple syntax.
+- Tuples can be concatenated and used in loops to iterate over their elements.
+- Parentheses are recommended when unpacking tuple elements in loops for clarity.
+- To create a tuple with a single object, you must include a comma after the object.
+- Omitting parentheses is possible but can reduce code clarity.

@@ -1,0 +1,7 @@
+- The cost function, often called the squared error function, calculates the difference between predicted and actual house prices in linear regression.
+- The goal of linear regression is to find the parameters theta 0 and theta 1 that minimize the cost function.
+- By minimizing the cost function, the hypothesis function H(x) fits the data well, minimizing the error between predictions and actual values.
+- The cost function is represented as J(theta0, theta1) = (1/2m) * Σ(H(x) - y)² over training examples.
+- theta 0 and theta 1 represent the model parameters that determine the slope and intercept of the hypothesis function.
+- Different parameter values result in different hypotheses, each with its own slope and intercept.
+- The squared error cost function is commonly used in regression problems due to its effectiveness and mathematical simplicity.

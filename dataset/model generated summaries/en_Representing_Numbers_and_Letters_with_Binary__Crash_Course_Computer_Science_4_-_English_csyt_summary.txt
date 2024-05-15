@@ -1,0 +1,8 @@
+- Single binary values represent numbers; 0 and 1 can be used to represent "true" and "false," allowing for information beyond these two values.
+- Binary numbers work similarly to decimal numbers, using a base-two system with multipliers that are powers of two.
+- Each binary digit (bit) represents a certain value, with a range of 0-255 in 8-bit systems.
+- Computers represent negative numbers using the first bit, typically reserving 31 bits for the number itself.
+- 64-bit numbers expand the range of representable values to around 9.2 quintillion.
+- Computers use floating-point numbers to represent non-whole numbers, with a significand and exponent.
+- Text is represented in computers using encoding schemes like ASCII, which assign binary numbers to letters.
+- Unicode provides a universal encoding scheme for characters from multiple languages.

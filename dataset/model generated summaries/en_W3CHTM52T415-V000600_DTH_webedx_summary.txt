@@ -1,0 +1,7 @@
+- HTML track elements can be manipulated in JavaScript to determine which track is loaded and active.
+- The `htmlTracks` variable retrieves all track elements using `querySelectorAll()`.
+- The `displayTrackStatuses()` function displays track information in the console, including label, kind, and language.
+- The `readyState` property indicates the track's status: 0 (unavailable), 2 (loaded).
+- A button is added to refresh the track statuses.
+- Using the Safari browser's track-switching menu demonstrates how track statuses change accordingly.
+- These attributes will be used in a future video to create a menu for selecting tracks programmatically.

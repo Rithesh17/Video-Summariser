@@ -1,0 +1,9 @@
+﻿Topic: Python Sequences
+* Sequence is a collection of objects order by position
+* 3 Basic Sequence Types
+   * List, Tuple, Ranges Objects
+   * List type for string
+* Any sequence will support common sequence operations, but each will have their own methods
+* Indexing starts at 0, being accessed as s[0]
+* Negative indexing allows to count from right to left instead - s[-1] == last element
+* Slicing allows extraction of multiple elements, specified by a start followed by a stop position -  s[0:2]

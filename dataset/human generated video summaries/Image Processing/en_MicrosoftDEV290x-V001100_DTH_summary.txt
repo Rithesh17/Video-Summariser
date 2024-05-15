@@ -1,0 +1,9 @@
+- Mathematical morphology involves using mathematical operations to manipulate images.
+- Dilation enlarges images by extending pixels and filling holes using a structuring element. 
+    - It works by comparing a structuring element (a small mask) with the image and setting pixels based on matching values.
+- Erosion removes pixels and fine details by setting target cells to 255 or zero based on cell matches. 
+    - It uses a logical AND operation to compare a structuring element with the image and sets pixels to white if all corresponding cells don't match.
+- Closing applies dilation followed by erosion, effectively closing gaps and filling holes in shapes. 
+- Opening is the opposite of closing, consisting of erosion followed by dilation.
+- Structuring elements can vary in shape and are used as templates for matching image cells.
+- The logical operations OR and AND are used in dilation and erosion, respectively.

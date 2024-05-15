@@ -1,0 +1,10 @@
+﻿Topic: String in Python
+* String are immutable sequence of characters
+* Can close in single quote, quotation marks, or triple quotes
+* len(str) gives the length of the string
+* Generic indexing and slicing works as it would on a list
+* Can also check membership in string - c in “camel” == true
+* Can concatenate or multiple a string, however, make sure that what you are adding is always a string
+* String also have there methods that can be used to manipulate strings
+   * dir(str) outputs the available methods
+   * Str.replace? - provides a description of the string replace method

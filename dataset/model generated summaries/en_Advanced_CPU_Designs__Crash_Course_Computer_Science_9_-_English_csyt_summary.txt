@@ -1,0 +1,8 @@
+- Early processors increased speed by reducing transistor switching time, but further improvement required new techniques.
+- Divide and other complex instructions are implemented in hardware, trading complexity for speed.
+- MMX, 3DNow!, and SSE are extensions to instruction sets for specialized operations.
+- Caches improve performance by storing recently accessed data close to the processor, reducing RAM access time.
+- Instruction pipelining overlaps fetch, decode, and execute steps, tripling throughput.
+- Superscalar processors execute multiple instructions per clock cycle by using duplicate circuitry.
+- Multi-core processors run multiple independent processing units within a single chip.
+- Supercomputers combine multiple independent CPUs, reaching extreme processing power.

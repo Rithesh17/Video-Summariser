@@ -1,0 +1,8 @@
+- Course Overview: Exploration of computing concepts and technologies, from basic components to advanced systems, without focusing on programming.
+- Impact of Computing: Computers have become essential for various aspects of modern life, from infrastructure operation to scientific advancement.
+- Historical Evolution: Computing devices have evolved over time, from the abacus and astrolabe to electronic computers.
+- Definition of "Computer": Initially a job title for human calculators, the term "computer" gradually shifted to refer to devices in the 1800s.
+- Gottfried Leibniz's Step Reckoner: A mechanical calculator that automated addition, subtraction, multiplication, and division operations.
+- Babbage's Difference Engine: A proposed mechanical device for approximating polynomials, never fully constructed.
+- Ada Lovelace: Wrote hypothetical programs for the Analytical Engine, considered the world's first programmer.
+- Punch Card Tabulation: Herman Hollerith's electro-mechanical machine used punch cards to efficiently process data for the 1890 US census.

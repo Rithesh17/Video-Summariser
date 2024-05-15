@@ -1,0 +1,8 @@
+﻿Topic: Sets
+* Sets are unordered collection of distinct, hashable objects
+* Hashable - can only be used for immutable objects
+* Frozen set - immutable once created
+* Sets can be indexed as they unordered
+* All of the objects are unique (no duplicates)
+* Useful for doing set operations
+   * Types of set operations - Union, Intersect, Difference

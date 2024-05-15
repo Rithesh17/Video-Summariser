@@ -1,0 +1,7 @@
+- When the page loads, an audio context is created and an audio graph is built, with a media element source, an analyzer, and connections to the destination.
+- The analyzer provides time and frequency domain analysis data, which is useful for drawing a waveform.
+- The size of the Fast Fourier Transform (FFT) used by the analyzer determines the number of data points available.
+- An animation loop runs 60 times per second, clearing the canvas and drawing a waveform based on the data obtained from the analyzer.
+- The waveform is drawn as a series of connected lines, with the x-coordinate increment determined by the canvas width and the number of data points.
+- The y-coordinate of each line is calculated based on the normalized value of the corresponding data point, which represents the amplitude of the audio signal.
+- By calling the analyzer.getByteTimeDomainData method in the animation loop, the data array is populated with the time domain data, which is then used to draw the waveform

@@ -1,0 +1,7 @@
+- The WebAudio API allows greater control over audio signals than standard audio elements.
+- It enables creating custom user interfaces, visualizations, and sound effects.
+- Web Audio allows precise syncing and mixing of multiple sounds, making it ideal for video games.
+- Samples can be loaded into memory, enabling perfect loops and accurate playback.
+- Synthetic sounds can be generated programmatically, opening up possibilities for virtual instruments.
+- The Web Audio debug tab in the FireFox dev tools helps in visualizing and debugging audio graphs.
+- Learn how to build audio graphs, assemble nodes, and use various nodes for effects and control.

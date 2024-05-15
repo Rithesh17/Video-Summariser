@@ -1,0 +1,7 @@
+- Classical machine learning involves defining functions to predict a label value (y) based on input features (x), typically using algorithms like logistic regression to determine coefficients.
+- Deep learning mimics the human brain by using artificial neurons with weighted inputs (x), bias (b), and an activation function to determine firing or non-firing (y).
+- Artificial neurons are interconnected in layers, with weighted connections between neurons allowing for complex function approximation.
+- The loss function measures the difference between predicted probabilities and known labels, indicating the amount of error in the model.
+- The gradient of the loss function guides adjustments to weights and biases to reduce loss, a process known as backpropagation.
+- Training a neural network involves feeding input data with known labels and iteratively adjusting weights and biases to minimize loss through epochs (cycles of training and validation).
+- GPUs are optimized for the linear algebra calculations used in training deep learning models, making them commonly used for this purpose.

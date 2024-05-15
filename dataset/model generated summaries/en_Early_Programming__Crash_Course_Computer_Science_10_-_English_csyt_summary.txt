@@ -1,0 +1,7 @@
+- Complex circuits in computers store and retrieve values, perform operations, and process sequences of operations (programs).
+- Programs must be loaded into computer memory to execute.
+- Punch cards pioneered data storage and program loading, enabling patterned textile weaving and efficient census tabulation.
+- Plug boards allowed for reprogramming machines, but their wiring complexity hindered convenience.
+- Swappable plug boards simplified programming, enabling different programs to be used without rewiring.
+- Stored-program computers emerged in the late 1940s, storing programs and data in memory for easy access and modification.
+- Electronic memory enabled the von Neumann architecture, combining data and instructions in a single shared memory.

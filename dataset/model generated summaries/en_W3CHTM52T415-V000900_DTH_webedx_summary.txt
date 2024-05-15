@@ -1,0 +1,7 @@
+- Track events include 'cuenter' and 'cueexit,' indicating cue entry and exit times, which can be displayed in sync with video.
+- VTT files specify start and end times for cues, triggering cueenter and cueexit events.
+- JavaScript's readContent method iterates over cues and adds individual enter and exit listeners to each.
+- Cue enter listeners display the cue ID and text, while exit listeners display the exited cue ID.
+- As of December 2015, Firefox doesn't support individual cue listeners, requiring a fallback 'cuechange' event listener on the track.
+- The cuechange listener provides a list of active cues, typically including only one cue.
+- The fallback method displays the first active cue during video playback, highlighting the current cue in a transcript.

@@ -1,0 +1,7 @@
+- Statistical analysis and manipulation of pixel values are key in traditional image processing.
+- Contrast is crucial for identifying features, but challenging lighting conditions can affect it.
+- Pixel values range from 0-255 and can be plotted in a histogram showing their frequency.
+- The cumulative distribution function (CDF) shows the cumulative distribution of pixel intensities.
+- Contrast stretching scales pixel values to improve contrast by evenly distributing them.
+- Histogram normalization flattens the histogram and produces a uniform CDF for improved contrast.
+- Python libraries simplify the process of adjusting contrast using these techniques.

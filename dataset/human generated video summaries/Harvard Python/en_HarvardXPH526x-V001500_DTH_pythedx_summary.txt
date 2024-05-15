@@ -1,0 +1,8 @@
+﻿* Topic: Arithmetic in Python
+* Python provides three numeric types: integers, floating point numbers, and complex numbers.
+* Python integers have unlimited precision, never becoming too long to fit within the type.
+* Python numbers support all arithmetic operations, including addition, multiplication, power, division, and floor division.
+* Floor division uses two slashes (//) and rounds the result to the closest integer less than the floating point answer.
+* The underscore operator (_) represents the last returned Python object, simplifying calculations.
+* Python's math module provides additional mathematical operations, such as the factorial function.
+* The factorial function calculates the product of a number multiplied by all smaller positive integers (e.g., 3! = 3 * 2 * 1 = 6).

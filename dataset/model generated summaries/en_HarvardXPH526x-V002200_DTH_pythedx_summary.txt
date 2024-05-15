@@ -1,0 +1,7 @@
+- Sequences in Python are ordered collections of objects.
+- Basic sequence types include lists, tuples, and range objects.
+- Indexing for sequences starts at 0, with the first element accessed via s[0].
+- Negative indexing can be used to access elements from the right, with s[-1] being the last element.
+- Slicing allows for the extraction of multiple elements, specified by a start and stop position, excluding the element at the stop position.
+- Sequences share common operations, but different types have unique methods.
+- Objects within a sequence form an ordered sequence of positions.

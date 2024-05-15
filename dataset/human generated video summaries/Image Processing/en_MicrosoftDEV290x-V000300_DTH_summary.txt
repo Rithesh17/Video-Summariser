@@ -1,0 +1,5 @@
+﻿- An image is a visual representation of something, while to a computer program, it is a matrix of pixels with intensity values.
+- Each pixel has an intensity value represented as a numerical value between 0-255.
+- A color JPEG image is a three-dimensional matrix with channels for red, green, and blue pixel intensities.
+- The intensity values across the three channels combine to create a full spectrum of colors for each pixel.
+- Varying the pixel values in each layer changes the overall visual effect.

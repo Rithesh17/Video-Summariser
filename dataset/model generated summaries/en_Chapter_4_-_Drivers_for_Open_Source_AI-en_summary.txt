@@ -1,0 +1,7 @@
+- Thousands of open source projects support responsible AI development.
+- Shared values between open source and AI communities include transparency and reduced costs.
+- Open source fosters collaboration, addressing the growing skills gap in the AI industry.
+- The use of open source improves software security and accelerates innovation.
+- Open source provides access to vast datasets crucial for training AI algorithms.
+- Common principles make the open source and AI communities natural collaborators.
+- Open source software supports the development of AI that aligns with ethical and societal needs.

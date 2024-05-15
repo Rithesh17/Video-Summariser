@@ -1,0 +1,7 @@
+- Data quality: Ensure data used to train AI models is accurate, complete, and relevant.
+- Bias: Identify and mitigate biases in data and algorithms to prevent unfair or inaccurate outputs.
+- Transparency: Make AI decision-making processes and data sources accessible to stakeholders.
+- Security: Implement measures to protect AI systems and data from unauthorized access and manipulation.
+- Predictability: Design AI systems to behave consistently and avoid unexpected or harmful outcomes.
+- Auditability: Create mechanisms to review and evaluate AI decision-making processes.
+- Responsibility: Establish accountability and liability for the development and deployment of AI systems.

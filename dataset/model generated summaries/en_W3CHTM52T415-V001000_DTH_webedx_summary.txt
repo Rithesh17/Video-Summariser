@@ -1,0 +1,7 @@
+- Implemented button click event to load a specific track with a given language.
+- Added a rectangular area (div) with an ID for displaying the transcript.
+- Used CSS to position the video and transcript horizontally, allowing both to expand.
+- Created a "loadTranscript" function to load the transcript for a specific language.
+- Implemented "displayCuesAfterTrackLoaded" function to display cues in sync with the video after the track is loaded.
+- Developed "displayCues" function to format and display cues in a list, including cue IDs for clicking.
+- Included "jumpTo" method that allows jumping to a specific time in the video when a cue is clicked.

@@ -1,0 +1,7 @@
+- Machine learning enables computers to learn without explicit programming, as defined by Samuel and Mitchell.
+- In supervised learning, the machine is taught to perform a task, while in unsupervised learning, it learns independently.
+- Reinforcement learning and recommender systems are other popular machine learning algorithms.
+- A key aspect of this course is providing practical advice for applying learning algorithms effectively.
+- Real-world applications of machine learning face challenges that can be solved with best practices.
+- The course aims to develop students' skills in designing and building robust machine learning and AI systems.
+- By applying machine learning best practices, practitioners can increase their chances of success and avoid wasted effort.

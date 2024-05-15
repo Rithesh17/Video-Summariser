@@ -1,0 +1,7 @@
+- Google Chrome displays German subtitles by default and has a CC button to enable/disable them.
+- Firefox loads the first track with the default attribute, but does not provide a menu or CC button for selecting subtitles.
+- Safari displays a subtitle menu, allowing users to choose between tracks and switch to English subtitles.
+- Internet Explorer and Microsoft Edge may offer similar subtitle features to Safari.
+- The Track API allows developers to interact with tracks, such as activating them or selecting languages.
+- Tracks are composed of cues, which are time segments defined by a start and end time.
+- Security constraints can prevent cross-origin access to videos and subtitles, which can be resolved by adding the crossOrigin="anonymous" attribute.

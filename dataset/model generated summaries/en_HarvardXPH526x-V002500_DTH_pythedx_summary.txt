@@ -1,0 +1,7 @@
+- Ranges are sequences of integers used in for loops and are created using the "range" function.
+- Ranges specify a stopping value, which Python excludes from the sequence.
+- Ranges can include a starting point and a step size, customizing the sequence generated.
+- It is generally recommended to avoid converting ranges to lists, as ranges are more efficient for looping.
+- Ranges store only three values (starting number, stopping number, step size), while lists store the entire sequence.
+- Converting large ranges to lists wastes memory due to unnecessary duplication of data.
+- Ranges are more commonly used in for loops directly, without prior conversion to lists.

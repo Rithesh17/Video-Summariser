@@ -1,0 +1,9 @@
+﻿Topic: Tuples in Python
+* Tuples are immutable sequences typically used to store heterogenous data
+* Usually use when you want to return a multiple outputs from a function
+* len(t) returns the length of tuple t
+* T1 + T2 gives us a new concatenated tuple contained all of the objects of T1 and T2
+* Accessing an element is much like a list where you access with t[index
+* Unpack the tuple by doing (v1, v2) = t where v1 = t[0] and v2 = t[1]
+* You can get away without using parentheses when making a tuple, however, it becomes harder to tell when you are working with a tuple
+* To make tuple of length 1, do t = (v1,)

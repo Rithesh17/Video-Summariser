@@ -1,0 +1,7 @@
+- Sets are collections of unique, hashable objects, commonly used for immutable objects (e.g., numbers, strings).
+- Two types of sets exist: mutable sets and immutable frozen sets.
+- Sets are unordered and cannot be indexed, meaning elements do not have specific locations.
+- Elements in sets are always distinct, ensuring that duplicates are ignored.
+- Sets offer useful mathematical operations like unions, intersections, and set differences.
+- The "len" function can be used to determine the number of elements in a set.
+- Sets can be employed for practical applications such as counting the unique letters in a word.

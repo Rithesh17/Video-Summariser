@@ -1,0 +1,7 @@
+﻿Topic: Ranges in Python
+* Ranges are immutable sequences of integers and are commonly used in for loops
+* Range(5) makes a range object of range(0, 5)
+   * When cast to list, it is a list of numbers 0 to 4
+* Range(1, 6, 2) sets 1 to start and ends at 6, incrementing by 2 each time
+   * This will be 1, 3, 5
+* Ranges are more efficient than lists for loops in order to save memory

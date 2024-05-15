@@ -1,0 +1,7 @@
+- AI development is rapidly progressing, posing significant ethical risks.
+- A significant proportion of executives (two-thirds) do not prioritize ethical concerns in AI.
+- Mitigation measures for AI bias and data transparency are still lacking in many organizations (75%).
+- Only a quarter of executives have taken action to prevent AI bias.
+- A third of executives do not consider ethical risks in AI as a primary concern.
+- Ethical risks in AI are often overlooked and underestimated.
+- Urgent attention and proactive steps are needed to address ethical risks in AI before serious consequences ensue.

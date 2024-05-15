@@ -1,0 +1,6 @@
+- Strings in Python are immutable and can be enclosed in quotes or triple quotes.
+- Common sequence operations on strings include finding length (len()), accessing elements (using indices), and slicing (specifying start and end points).
+- Strings support membership testing (e.g., "y" in S) to check if a character is present.
+- Polymorphism allows operators to behave differently depending on object types (e.g., "+" means addition for numbers, concatenation for strings).
+- Strings can be concatenated (joined together) using the "+" operator, which creates a new string.
+- Strings have their own methods that allow for manipulation, such as the "replace" method to substitute characters or the "split" method to break down strings into substrings.

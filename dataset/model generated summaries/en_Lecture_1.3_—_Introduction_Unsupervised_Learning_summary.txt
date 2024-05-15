@@ -1,0 +1,7 @@
+- Unsupervised learning involves analyzing labeled data without guidance on what to do.
+- Clustering is an unsupervised learning technique that groups data points into distinct clusters.
+- Google News uses clustering to categorize news stories based on content.
+- Unsupervised learning aids in understanding genomics by identifying patterns in gene expression data.
+- Social network analysis and market segmentation utilize unsupervised learning to identify groups and segments within data.
+- The cocktail party algorithm separates audio sources from multiple recordings without prior knowledge of the individual voices.
+- Octave, a free and open-source programming environment, simplifies the implementation of machine learning algorithms.

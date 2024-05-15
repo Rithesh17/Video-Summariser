@@ -1,0 +1,7 @@
+- Web Audio enables easy streaming of audio content.
+- To mitigate the "same origin policy" constraint, the "crossOrigin=anonymous" attribute is added to the audio element.
+- An audio context must be created using context.createAudioContext() to handle audio streams.
+- Using context.createMediaElementSource(player), a source node is created to capture the audio stream.
+- The source node is connected to the ctx.destination node, representing the speakers, via connect().
+- Disconnecting the source node from the destination using disconnect() mutes the audio output.
+- Visualizing the audio graph is possible through the Web Audio tab in developer tools.

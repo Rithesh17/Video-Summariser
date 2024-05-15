@@ -1,0 +1,7 @@
+- HTML track elements can be manipulated in JavaScript to determine which track is loaded and active.
+- Setting `htmlTracks` variable retrieves all track elements using `querySelectorAll("tracks")`.
+- Let 'currentTrack' be a variable associated to a single track elements
+    - currentTrack.label displays the label associated to the track element
+    - currentTrack.kind displays the type of the track element
+    - currentTrack.srclang displayes the language of the track element
+- The `readyState` property indicates the track's status: 0 (unavailable), 2 (loaded).

@@ -1,0 +1,7 @@
+- By clicking "force load track 0" or "force load track 2" buttons, content of WebVTT file (track 0) or chapters (track 2) can be read.
+- WebVTT file contains cues that can be individually accessed using the track API.
+- Each cue has an ID, start time, end time, and text content.
+- A TextTrack object has a "cues" property that provides a list of all cues in the VTT file.
+- Cues can be iterated through to get information such as ID, start time, end time, and text content.
+- By loading text tracks, the player can display clickable transcripts that allow viewers to jump to specific video positions.
+- The edX video player uses a similar mechanism to display clickable transcripts for videos.

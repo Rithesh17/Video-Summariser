@@ -1,0 +1,7 @@
+- Dictionaries are mappings from keys to values, with immutable keys and modifiable values.
+- Dictionaries allow for efficient look-ups on unordered data.
+- Key-value pairs in dictionaries are not stored in any specific order.
+- Dictionaries can be created using curly braces or the "dict" keyword.
+- Values associated with keys can be modified using dictionary syntax, such as "dictionary[key] += value".
+- The "keys" and "values" methods can be used to retrieve views of the dictionary's keys and values, respectively.
+- Membership testing in dictionaries can be performed using the "in" operator, which checks if a key exists.?
